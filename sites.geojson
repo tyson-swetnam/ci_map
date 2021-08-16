@@ -90,15 +90,16 @@
         "marker-symbol": "",
         "SiteID": "IU",
         "Site Name": "Indiana University",
-        "Type": "Jetstream Cloud",
+        "Type": "Cloud",
         "Type ": "Storage",
         "Scheduler": "",
-        "Cloud": "OpenStack",
-        "Storage ": "",
-        "CPU": "",
-        "GPU": "",
+        "Cloud Platform": "OpenStack",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
         "Interconnect": "10",
         "XSEDE": "Yes",
+        "XSEDE Project": "Jetstream-2",
         "Website": "https://jetstream-cloud.org/",
         "Internet2": "Yes"
       },
@@ -118,15 +119,15 @@
         "marker-symbol": "",
         "SiteID": "TACC",
         "Site Name": "Texas Advanced Computing Center",
-        "Type": "High Performance Computing",
-        "Type ": "Storage",
+        "Type": "Cloud",
         "Scheduler": "Slurm",
-        "Cloud": "OpenStack",
+        "Cloud Platform": "OpenStack",
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
         "Interconnect": "10",
         "XSEDE": "Yes",
+        "XSEDE Project": "Jetstream-2",
         "Website": "https://www.tacc.utexas.edu/",
         "Internet2": "Yes"
       },
@@ -219,6 +220,121 @@
         "coordinates": [
           -79.94917675852776,
           40.44551719792565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "ASU",
+        "Site Name": "Arizona State University",
+        "Type": "Cloud",
+        "Scheduler": "Slurm",
+        "Cloud Platform": "OpenStack",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "XSEDE Project": "Jetstream-2",
+        "Website": "https://cores.research.asu.edu/research-computing/about",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93143606185913,
+          33.418900767918984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "CU",
+        "Site Name": "Cornell University",
+        "Type": "Cloud",
+        "Type ": "Storage",
+        "Scheduler": "",
+        "Cloud Platform": "OpenStack",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "XSEDE Project": "Jetstream-2",
+        "Website": "https://jetstream-cloud.org/",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48150563240051,
+          42.44334395007949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "UHDS",
+        "Site Name": "University of Hawai'i Data Science Institute",
+        "Type": "Cloud",
+        "Type ": "Storage",
+        "Scheduler": "",
+        "Cloud Platform": "OpenStack",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "XSEDE Project": "Jetstream-2",
+        "Website": "https://jetstream-cloud.org/",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.81577110290527,
+          21.299735554754058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "UCAR",
+        "Site Name": "University Center for Atmospheric Research",
+        "Type": "Cloud",
+        "Type ": "Storage",
+        "Scheduler": "",
+        "Cloud Platform": "OpenStack",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "XSEDE Project": "Jetstream-2",
+        "Website": "https://jetstream-cloud.org/",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27500331401825,
+          39.9782176623468
         ]
       }
     }
