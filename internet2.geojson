@@ -31,6 +31,32 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "SiteID": "NAU",
+        "Site Name": "Northern Arizona University",
+        "Type": "High Performance Computing",
+        "Type ": "Storage",
+        "Scheduler": "Slurm",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "Website": "https://nau.edu/school-of-informatics-computing-and-cyber-systems/",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -111.65775418281555,
+           35.18628684225462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
         "marker-size": "large",
         "marker-symbol": "rocket",
         "SiteID": "CUS",
@@ -495,6 +521,10 @@
           [
             -111.93143606185913,
             33.41890132760628
+          ],
+          [
+            -111.65775418281555,
+            35.18628684225462
           ]
         ]
       }
