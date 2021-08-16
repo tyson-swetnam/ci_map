@@ -1,0 +1,163 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "UAHPC",
+        "Site Name": "University of Arizona",
+        "Type": "High Performance Computing",
+        "Type ": "Storage",
+        "Scheduler": "Slurm",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.95168679952621,
+          32.23565279494154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "CV",
+        "Site Name": "CyVerse",
+        "Type": "Cloud",
+        "Type ": "Storage",
+        "Scheduler": "HTCondor",
+        "Cloud": "OpenStack",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.94798803329468,
+          32.237973724284515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "SDSC",
+        "Site Name": "San Diego Supercomputer Center",
+        "Type": "High Performance Computing",
+        "Type ": "Storage",
+        "Scheduler": "Slurm",
+        "Storage ": "No",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.23993808031081,
+          32.884274615816295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "IU",
+        "Site Name": "Indiana University",
+        "Type": "Jetstream Cloud",
+        "Type ": "Storage",
+        "Scheduler": "",
+        "Cloud": "OpenStack",
+        "Storage ": "",
+        "CPU": "",
+        "GPU": "",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52179718017578,
+          39.173640127078166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "TACC",
+        "Site Name": "Texas Advanced Computing Center",
+        "Type": "High Performance Computing",
+        "Type ": "Storage",
+        "Scheduler": "Slurm",
+        "Cloud": "OpenStack",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.72564172744751,
+          30.390192260457724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "NCSA",
+        "Site Name": "National Center for Supercomputing Applications",
+        "Type": "High Performance Computing",
+        "Type ": "Storage",
+        "Scheduler": "Slurm",
+        "Cloud": "",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "Internet2": "Yes"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.22503745555878,
+          40.11485173762457
+        ]
+      }
+    }
+  ]
+}
