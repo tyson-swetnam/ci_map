@@ -337,6 +337,62 @@
           39.9782176623468
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "UKY",
+        "Site Name": "University of Kentucky",
+        "Type": "High Performance Computing",
+        "Type ": "Storage",
+        "Scheduler": "Slurm",
+        "Cloud": "",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "Website": "https://portal.xsede.org/kentucky-kyric",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.49784517288208,
+          38.03969238806747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "UDDSI",
+        "Site Name": "University of Delaware Data Science Institute",
+        "Type": "High Performance Computing",
+        "Type ": "Storage",
+        "Scheduler": "Slurm",
+        "Cloud": "",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "Website": "https://dsi.udel.edu/core/computational-resources/",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.75423002243042,
+          39.664196236888685
+        ]
+      }
     }
   ]
 }
