@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "UAHPC",
         "Site Name": "University of Arizona",
@@ -15,7 +15,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "Website": "https://it.arizona.edu/research",
         "Internet2": "Yes"
       },
@@ -31,8 +31,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-size": "large",
+        "marker-symbol": "star",
         "SiteID": "CV",
         "Site Name": "CyVerse",
         "Type": "Cloud",
@@ -42,7 +42,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "Website": "https://cyverse.org/",
         "Internet2": "Yes"
@@ -59,7 +59,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "SDSC",
         "Site Name": "San Diego Supercomputer Center",
@@ -69,7 +69,7 @@
         "Storage ": "No",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "Website": "https://www.sdsc.edu/",
         "XSEDE": "Yes",
         "Internet2": "Yes"
@@ -115,7 +115,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "TACC",
         "Site Name": "Texas Advanced Computing Center",
@@ -125,7 +125,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://www.tacc.utexas.edu/",
@@ -143,7 +143,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "NCSA",
         "Site Name": "National Center for Supercomputing Applications",
@@ -154,7 +154,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "Website": "http://www.ncsa.illinois.edu/",
         "Internet2": "Yes"
@@ -171,8 +171,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-size": "small",
+        "marker-symbol": "circle",
         "SiteID": "MARCC",
         "Site Name": "Maryland Advanced Research Computing Center",
         "Type": "High Performance Computing",
@@ -182,7 +182,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "Website": "https://www.marcc.jhu.edu/",
         "Internet2": "Yes"
@@ -199,7 +199,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "PSC",
         "Site Name": "Pittsburg Superccomputing Center",
@@ -210,7 +210,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "Website": "https://www.psc.edu/",
         "Internet2": "Yes"
@@ -227,7 +227,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "ASU",
         "Site Name": "Arizona State University",
@@ -237,7 +237,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://cores.research.asu.edu/research-computing/about",
@@ -255,7 +255,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "CU",
         "Site Name": "Cornell University",
@@ -266,7 +266,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://jetstream-cloud.org/",
@@ -284,7 +284,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "UHDS",
         "Site Name": "University of Hawai'i Data Science Institute",
@@ -295,7 +295,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://jetstream-cloud.org/",
@@ -313,7 +313,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "UCAR",
         "Site Name": "University Center for Atmospheric Research",
@@ -324,7 +324,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://jetstream-cloud.org/",
@@ -342,7 +342,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "UKY",
         "Site Name": "University of Kentucky",
@@ -353,7 +353,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "Website": "https://portal.xsede.org/kentucky-kyric",
         "Internet2": "Yes"
@@ -370,7 +370,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-size": "small",
         "marker-symbol": "",
         "SiteID": "UDDSI",
         "Site Name": "University of Delaware Data Science Institute",
@@ -381,7 +381,7 @@
         "Storage ": "Yes",
         "CPU": "Yes",
         "GPU": "Yes",
-        "Interconnect": "10",
+        "Interconnect": 10,
         "XSEDE": "Yes",
         "Website": "https://dsi.udel.edu/core/computational-resources/",
         "Internet2": "Yes"
@@ -391,6 +391,62 @@
         "coordinates": [
           -75.75423002243042,
           39.664196236888685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "star-stroked",
+        "SiteID": "CAT",
+        "Site Name": "CyVerse Austria TU Graz",
+        "Type": "Cloud",
+        "Type ": "Storage",
+        "Scheduler": "HTCondor",
+        "Cloud": "OpenStack",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": 10,
+        "XSEDE": "No",
+        "Website": "https://www.tugraz.at/sites/cat/home/",
+        "Internet2": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.46302080154419,
+          47.05868445324063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "large",
+        "marker-symbol": "star-stroked",
+        "SiteID": "CUK",
+        "Site Name": "CyVerse UK",
+        "Type": "Cloud",
+        "Type ": "Storage",
+        "Scheduler": "HTCondor",
+        "Cloud": "OpenStack",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": 10,
+        "XSEDE": "No",
+        "Website": "https://cyverseuk.org/",
+        "Internet2": "No"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2190425395965576,
+          52.621744411459005
         ]
       }
     }
