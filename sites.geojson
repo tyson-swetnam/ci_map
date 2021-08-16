@@ -16,6 +16,7 @@
         "CPU": "Yes",
         "GPU": "Yes",
         "Interconnect": "10",
+        "Website": "https://it.arizona.edu/research",
         "Internet2": "Yes"
       },
       "geometry": {
@@ -43,6 +44,7 @@
         "GPU": "Yes",
         "Interconnect": "10",
         "XSEDE": "Yes",
+        "Website": "https://cyverse.org/",
         "Internet2": "Yes"
       },
       "geometry": {
@@ -68,6 +70,7 @@
         "CPU": "Yes",
         "GPU": "Yes",
         "Interconnect": "10",
+        "Website": "https://www.sdsc.edu/",
         "XSEDE": "Yes",
         "Internet2": "Yes"
       },
@@ -96,6 +99,7 @@
         "GPU": "",
         "Interconnect": "10",
         "XSEDE": "Yes",
+        "Website": "https://jetstream-cloud.org/",
         "Internet2": "Yes"
       },
       "geometry": {
@@ -123,6 +127,7 @@
         "GPU": "Yes",
         "Interconnect": "10",
         "XSEDE": "Yes",
+        "Website": "https://www.tacc.utexas.edu/",
         "Internet2": "Yes"
       },
       "geometry": {
@@ -150,12 +155,70 @@
         "GPU": "Yes",
         "Interconnect": "10",
         "XSEDE": "Yes",
-        "Internet2": "Yes"},
+        "Website": "http://www.ncsa.illinois.edu/",
+        "Internet2": "Yes"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -88.22503745555878,
           40.11485173762457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "MARCC",
+        "Site Name": "Maryland Advanced Research Computing Center",
+        "Type": "High Performance Computing",
+        "Type ": "Storage",
+        "Scheduler": "Slurm",
+        "Cloud": "",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "Website": "https://www.marcc.jhu.edu/",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.55173659324645,
+          39.29354073135018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "SiteID": "PSC",
+        "Site Name": "Pittsburg Superccomputing Center",
+        "Type": "High Performance Computing",
+        "Type ": "Storage",
+        "Scheduler": "Slurm",
+        "Cloud": "",
+        "Storage ": "Yes",
+        "CPU": "Yes",
+        "GPU": "Yes",
+        "Interconnect": "10",
+        "XSEDE": "Yes",
+        "Website": "https://www.psc.edu/",
+        "Internet2": "Yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94917675852776,
+          40.44551719792565
         ]
       }
     }
