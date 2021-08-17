@@ -1,0 +1,1620 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "AMNH",
+        "Site Name": "American Museum of Natural History"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97403717041016,
+          40.78127259289776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "ANL",
+        "Site Name": "Argonne National Lab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.975157,
+          41.705917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "ASU",
+        "Site Name": "Arizona State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9400,
+          33.4255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "BAYU",
+        "Site Name": "Baylor University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1143,
+          31.5498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "BELU",
+        "Site Name": "Bellarmine University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.703713,
+          38.219681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "BOSU",
+        "Site Name": "Boston University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.07276,
+          42.338724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "BRAN",
+        "Site Name": "Brandeis Tier 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.242218,
+          42.381372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "BNL",
+        "Site Name": "Brookhaven National Laboratory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.878366,
+          40.868386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "BWNU",
+        "Site Name": "Brown University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.422119,
+          41.812267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "CALT",
+        "Site Name": "California Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.124281,
+          34.137987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "CSUF",
+        "Site Name": "California State University Fresno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.746857,
+          36.812927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "CCO",
+        "Site Name": "CancerComputer Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.710,
+          45.400
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "CCM",
+        "Site Name": "CancerComputer-Minneapolis-UEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.203,
+          44.970
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "CCKA",
+        "Site Name": "CancerComputer-Kitchener-Ardelt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4759616,
+          43.4235682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "CUAC",
+        "Site Name": "Clarkson University ACRES Cluster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.997738,
+          44.663422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "CLUN",
+        "Site Name": "Columbia University Nevis Labs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.872435,
+          41.027292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "CORU",
+        "Site Name": "Cornell University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49685,
+          42.449454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "CUNY",
+        "Site Name": "The City University of New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.984509,
+          40.748362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "COSE",
+        "Site Name": "Cybera Openstack Edmonton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.7728991,
+          53.555467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "DPSC",
+        "Site Name": "Donald Danforth Plant Sciences Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.397189,
+          38.674584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "DKU",
+        "Site Name": "Duke University Tier 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.942304,
+          36.003111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "FNAL",
+        "Site Name": "Fermi National Accelerator Laboratory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.242767,
+          41.85143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "FLAM",
+        "Site Name": "Florida A&M University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.284816,
+          30.428152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "FLIT",
+        "Site Name": "Florida Instite of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.61987,
+          28.077494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "FIU",
+        "Site Name": "Florida International University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.372361,
+          25.758609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "FSU",
+        "Site Name": "Florida State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.29855,
+          30.442499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "GIT",
+        "Site Name": "Georgia Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3947,
+          33.7758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "GASU",
+        "Site Name": "Georgia State University Research Computing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.867846,
+          37.401394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "GRDP",
+        "Site Name": "Gridplexus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85721,
+          41.080196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "HAPU",
+        "Site Name": "Hampton University PPCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.336344,
+          37.019576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "HARM",
+        "Site Name": "Harvard Medical School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.104092,
+          42.335822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "HARV",
+        "Site Name": "Harvard University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.104674,
+          42.336691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "PRSJ",
+        "Site Name": "University of Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.076093,
+          18.427525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "ILIT",
+        "Site Name": "Illinois Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.627,
+          41.8349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "IUB",
+        "Site Name": "Indiana University Bloomington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.501091,
+          39.173557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "ISU",
+        "Site Name": "Iowa State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.467174,
+          42.034759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "KSU",
+        "Site Name": "Kansas State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.58088,
+          39.186514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UKS",
+        "Site Name": "University of Kansas GPN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.275623,
+          38.952526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "KESU",
+        "Site Name": "Kennesaw State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.581597,
+          34.0226996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "KESU",
+        "Site Name": "Kennesaw State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.581597,
+          34.0226996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "LAMU",
+        "Site Name": "Lamar University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.074729,
+          30.038388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "LNGU",
+        "Site Name": "Langston University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.259847,
+          35.945191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "LBNL",
+        "Site Name": "Lawrence Berkeley National Lab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3,
+          37.866825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "LLNL",
+        "Site Name": "Lawrence Livermore National Lab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.70445,
+          37.68691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "LUHC",
+        "Site Name": "Lehigh University Hawk Cluster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.378569,
+          40.609049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "LSU",
+        "Site Name": "Louisiana State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.182191,
+          30.4132625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "LSUH",
+        "Site Name": "Louisiana State University Health Sciences"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.083,
+          29.958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "LTU",
+        "Site Name": "Louisiana Tech University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.645398,
+          32.525499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "MIT",
+        "Site Name": "Massachusetts Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10431,
+          42.364347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "MCGU",
+        "Site Name": "McGill University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.38,
+          45.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "MISU",
+        "Site Name": "Michigan State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.79248,
+          42.603642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "NERSC",
+        "Site Name": "National Energy Research Scientific Computing Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.253582,
+          37.866825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "NMSU",
+        "Site Name": "New Mexico State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.747541,
+          32.278267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "NYU",
+        "Site Name": "New York University ATLAS Tier 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.994486,
+          40.729942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "NYNU",
+        "Site Name": "Niagra University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.830681,
+          43.32684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "NDSU",
+        "Site Name": "North Dakota State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.802372,
+          46.897592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "NEU",
+        "Site Name": "North Eastern University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.08919,
+          42.33787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "NILU",
+        "Site Name": "Northern Illinios University ATLAS Tier 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.765218,
+          41.932271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "NWU",
+        "Site Name": "Northwestern University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68809,
+          42.05408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "NSFDC",
+        "Site Name": "National Science Foundation DC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.110817,
+          38.87972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "ORNL",
+        "Site Name": "Oak Ridge National Laboratory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.195796,
+          36.105971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "OSC",
+        "Site Name": "Ohio Supercomputer Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.042908,
+          39.999742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "OKSU",
+        "Site Name": "Oklahoma State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0723655,
+          36.1230911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "ODU",
+        "Site Name": "Old Dominion University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30770625,
+          36.8857071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "PSU",
+        "Site Name": "Penn State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.86281,
+          40.806956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "PASC",
+        "Site Name": "Pittsburgh Supercomputing Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.959987,
+          40.444035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "PRNC",
+        "Site Name": "Princeton University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.653473,
+          40.340526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "PURU",
+        "Site Name": "Purdue University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.910768,
+          40.423004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "RICE",
+        "Site Name": "Sam Houston Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.409334,
+          29.716318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "RIT",
+        "Site Name": "Rochester Institute of Technology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.677889,
+          43.088072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "RUTG",
+        "Site Name": "Rutgers University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.464514,
+          40.522918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "SMU",
+        "Site Name": "Southern Methodist University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.783886,
+          32.846297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "STAN",
+        "Site Name": "Stanford University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.164879,
+          37.424571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "STON",
+        "Site Name": "Stony Brook University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.126116,
+          40.916269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "SUNYA",
+        "Site Name": "SUNY Albany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.755877,
+          42.651728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "SUSQ",
+        "Site Name": "Susquehanna University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.873155,
+          40.798506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "SYRU",
+        "Site Name": "Syracuse University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1326834,
+          43.0385961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "TXAM",
+        "Site Name": "Texas A&M University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.342672,
+          30.619803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "TACC",
+        "Site Name": "Texas Advanced Computing Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.726038,
+          30.390170
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "TXTU",
+        "Site Name": "Texas Tech University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.821292,
+          33.610018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "TCNJ",
+        "Site Name": "The College of New Jersey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.790909,
+          40.259987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "TOSU",
+        "Site Name": "The Ohio State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.014476,
+          40.003407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "TJNAF",
+        "Site Name": "Thomas Jefferson National Accelerator Facility"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.48161,
+          37.094401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "TUFT",
+        "Site Name": "Tufts University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.11948,
+          42.40546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UCIR",
+        "Site Name": "UC Irvine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.840128,
+          33.643474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UCSB",
+        "Site Name": "UC Santa Barbara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.179687,
+          34.016242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UABAL",
+        "Site Name": "University of Alabama Birmingham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.801155,
+          33.50305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UAZ",
+        "Site Name": "University of Arizona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.953947,
+          32.229874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UAR",
+        "Site Name": "University of Arkansas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.13376,
+          36.040467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UBNY",
+        "Site Name": "University of Buffalo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.035645,
+          42.619813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UCD",
+        "Site Name": "University of California Davis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.751304,
+          38.536669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UCLA",
+        "Site Name": "University of California Los Angeles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.298662,
+          33.786594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UCR",
+        "Site Name": "University of California Riverside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.325385,
+          33.974645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UCSD",
+        "Site Name": "University of California San Diego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.239614,
+          32.884310
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2b00ff",
+        "marker-size": "small",
+        "marker-symbol": "square",
+        "Site ID": "UCSC",
+        "Site Name": "University of California Santa Cruz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.061303,
+          37.000779
+        ]
+      }
+    }
+  ]
+}
