@@ -8,7 +8,7 @@
         "stroke-width": 2,
         "stroke-opacity": 0.5,
         "Internet2": "Yes",
-        "Interconnect": "10"
+        "Interconnect": "10",
         "type": "opensciencegrid",
         "type ": "storage",
         "scheduler": "htcondor",
@@ -19,7 +19,7 @@
         "website": "",
         "xsede": "",
         "internet2": ""
-},
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -44,7 +44,7 @@
         "Connector": "Sun Corridor",
         "Website": "https://internet2.edu/community/about-us/media-resources/",
         "Interconnect": "100",
-        "Leg": "Arizona"
+        "Leg": "Arizona",
         "type": "opensciencegrid",
         "type ": "storage",
         "scheduler": "htcondor",
@@ -55,7 +55,7 @@
         "website": "",
         "xsede": "",
         "internet2": ""
-},
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -81,8 +81,7 @@
         "stroke-width": 1,
         "stroke-opacity": 0.5,
         "Internet2": "Yes",
-        "Interconnect": 10,
-        "Leg": "San Diego"
+        "Leg": "San Diego",
         "type": "opensciencegrid",
         "type ": "storage",
         "scheduler": "htcondor",
@@ -93,7 +92,7 @@
         "website": "",
         "xsede": "",
         "internet2": ""
-},
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -115,8 +114,7 @@
         "stroke-width": 1,
         "stroke-opacity": 0.5,
         "Internet2": "Yes",
-        "Interconnect": "10",
-        "Leg": "Colorado"
+        "Leg": "Colorado",
         "type": "opensciencegrid",
         "type ": "storage",
         "scheduler": "htcondor",
@@ -127,7 +125,7 @@
         "website": "",
         "xsede": "",
         "internet2": ""
-},
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -157,8 +155,7 @@
         "stroke-width": 1,
         "stroke-opacity": 0.5,
         "Internet2": "Yes",
-        "Interconnect": 10,
-        "Leg": "Indiana"
+        "Leg": "Indiana",
         "type": "opensciencegrid",
         "type ": "storage",
         "scheduler": "htcondor",
@@ -169,7 +166,7 @@
         "website": "",
         "xsede": "",
         "internet2": ""
-},
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -207,8 +204,7 @@
         "stroke-width": 1,
         "stroke-opacity": 0.5,
         "Internet2": "Yes",
-        "Interconnect": 10,
-        "Leg": "Texas"
+        "Leg": "Texas",
         "type": "opensciencegrid",
         "type ": "storage",
         "scheduler": "htcondor",
@@ -219,7 +215,7 @@
         "website": "",
         "xsede": "",
         "internet2": ""
-},
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
