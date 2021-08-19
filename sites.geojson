@@ -17,7 +17,9 @@
         "GPU": "Yes",
         "Interconnect": "10",
         "Website": "https://it.arizona.edu/research",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "32.23565279494154",
+        "Longitude": "-110.95168679952621"
       },
       "geometry": {
         "type": "Point",
@@ -27,6 +29,34 @@
         ]
       }
     },
+        {
+          "type": "Feature",
+          "properties": {
+            "marker-color": "#7e7e7e",
+            "marker-size": "small",
+            "marker-symbol": "",
+            "SiteID": "NAU",
+            "Site Name": "Northern Arizona University",
+            "Type": "High Performance Computing",
+            "Type ": "Storage",
+            "Scheduler": "Slurm",
+            "Storage ": "Yes",
+            "CPU": "Yes",
+            "GPU": "Yes",
+            "Interconnect": "10",
+            "Website": "https://in.nau.edu/hpc/",
+            "Internet2": "Yes",
+            "Latitude": "35.1963",
+            "Longitude": "-111.6619"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -111.6619,
+              35.1963
+            ]
+          }
+        },
     {
       "type": "Feature",
       "properties": {
@@ -45,7 +75,9 @@
         "Interconnect": 10,
         "XSEDE": "No",
         "Website": "https://cyverse.org/",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "32.237973724284515",
+        "Longitude": "-110.94798803329468"
       },
       "geometry": {
         "type": "Point",
@@ -72,7 +104,9 @@
         "Interconnect": "10",
         "Website": "https://www.sdsc.edu/",
         "XSEDE": "Yes",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -101,7 +135,9 @@
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://jetstream-cloud.org/",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""        
       },
       "geometry": {
         "type": "Point",
@@ -129,7 +165,9 @@
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://www.tacc.utexas.edu/",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -157,7 +195,9 @@
         "Interconnect": "10",
         "XSEDE": "Yes",
         "Website": "http://www.ncsa.illinois.edu/",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -185,7 +225,9 @@
         "Interconnect": 10,
         "XSEDE": "Yes",
         "Website": "https://www.marcc.jhu.edu/",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""        
       },
       "geometry": {
         "type": "Point",
@@ -213,7 +255,9 @@
         "Interconnect": 10,
         "XSEDE": "Yes",
         "Website": "https://www.psc.edu/",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -241,7 +285,9 @@
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://cores.research.asu.edu/research-computing/about",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -270,7 +316,9 @@
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://jetstream-cloud.org/",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +347,9 @@
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://jetstream-cloud.org/",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -328,7 +378,9 @@
         "XSEDE": "Yes",
         "XSEDE Project": "Jetstream-2",
         "Website": "https://jetstream-cloud.org/",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -356,7 +408,9 @@
         "Interconnect": 10,
         "XSEDE": "Yes",
         "Website": "https://portal.xsede.org/kentucky-kyric",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -384,7 +438,9 @@
         "Interconnect": 10,
         "XSEDE": "Yes",
         "Website": "https://dsi.udel.edu/core/computational-resources/",
-        "Internet2": "Yes"
+        "Internet2": "Yes",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -412,7 +468,9 @@
         "Interconnect": 10,
         "XSEDE": "No",
         "Website": "https://www.tugraz.at/sites/cat/home/",
-        "Internet2": "No"
+        "Internet2": "No",
+        "Latitude": "",
+        "Longitude": ""
       },
       "geometry": {
         "type": "Point",
@@ -440,7 +498,9 @@
         "Interconnect": 10,
         "XSEDE": "No",
         "Website": "https://cyverseuk.org/",
-        "Internet2": "No"
+        "Internet2": "No",
+        "ukLatitude": "52.621744411459005",
+        "ukLongitude": "1.2190425395965576"
       },
       "geometry": {
         "type": "Point",
