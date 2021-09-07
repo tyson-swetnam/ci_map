@@ -1,0 +1,7 @@
+name: earthengine
+channels:
+  - conda-forge
+  - defaults
+  - anaconda
+dependencies:
+  - earthengine-api
